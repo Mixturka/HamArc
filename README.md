@@ -26,6 +26,10 @@ HamArc is a command-line application that supports various operations through co
 HamArc --create --file=ARCHIVE_NAME FILE1 FILE2 FILE3
 ```
 - **Listing Files in an Archive**:
- ```bash HamArc -l -f hamarc -l -f ARCHIVE_NAME```
+ ```bash
+HamArc -l -f hamarc -l -f ARCHIVE_NAME
+```
 - **Merging Two Archives**:
-```bash HamArc --concatenate ARCHIVE1 ARCHIVE2 -f ARCHIVE3```
+```bash
+HamArc --concatenate ARCHIVE1 ARCHIVE2 -f ARCHIVE3
+```
