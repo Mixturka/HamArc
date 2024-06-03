@@ -1,5 +1,3 @@
-# HamArc
-
 # HamArc: Hamming Archive File Utility
 
 HamArc is a robust file archiver designed to combine multiple files into a single `.haf` (Hamming Archive File) without compression, ensuring data integrity through Hamming error-correcting codes. This utility is capable of handling large files efficiently and is structured for optimal performance and maintainability.
