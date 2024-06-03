@@ -22,3 +22,4 @@ HamArc is a command-line application that supports various operations through co
 
 
 - **Creating an Archive**:
+```HamArc --create --file=ARCHIVE FILE1 FILE2 FILE3```
