@@ -18,6 +18,9 @@ HamArc is a robust file archiver designed to combine multiple files into a singl
 
 ## Command line arguments
 ```-c, --create``` - Create new archive
+```-f --file=FILE_NAME``` - Archive file name
+```-l, --list``` - list all archived files
+
 ## Usage
 
 HamArc is a command-line application that supports various operations through command-line arguments. Here are some examples of how to use HamArc:
@@ -29,7 +32,7 @@ HamArc --create --file=ARCHIVE_NAME FILE1 FILE2 FILE3
 ```
 - **Listing Files in an Archive**:
  ```bash
-HamArc -l -f hamarc -l -f ARCHIVE_NAME
+HamArc -l -f ARCHIVE_NAME
 ```
 - **Merging Two Archives**:
 ```bash
