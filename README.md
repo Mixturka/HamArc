@@ -17,9 +17,9 @@ HamArc is a robust file archiver designed to combine multiple files into a singl
 - **Recovery**: Attempts to repair corrupted archives or informs the user if recovery is not possible.
 
 ## Command line arguments
-```-c, --create``` - Create new archive
-```-f --file=FILE_NAME``` - Archive file name
-```-l, --list``` - list all archived files
+- ```-c, --create``` - Create new archive
+- ```-f --file=FILE_NAME``` - Archive file name
+- ```-l, --list``` - list all archived files
 
 ## Usage
 
