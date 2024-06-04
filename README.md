@@ -6,7 +6,7 @@ HamArc is a robust file archiver designed to combine multiple files into a singl
 
 
 - **Error Correction**: Utilizes Hamming codes to protect against data corruption.
-- **Archiving**: Combines one or more files into a single `.haf` archive.
+- **Archiving**: Combines one or more files(or folders) into a single `.haf` archive.
 
 - **Extraction**: Retrieves all or specific files from an archive.
 - **Merging**: Combines multiple `.haf` archives into one.
